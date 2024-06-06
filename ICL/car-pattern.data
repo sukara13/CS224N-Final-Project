@@ -1,0 +1,77 @@
+*,*,*,2,*,*,unacc
+vhigh,vhigh/high,*,*,*,unacc
+vhigh,med/low,*,*,*,low,unacc
+vhigh,med/low,*,*,*,high,acc
+high,vhigh,*,*,*,unacc
+high,*,*,*,*,low,unacc
+high,*,*,*,*,high,acc
+med,vhigh/high,*,*,*,low,unacc
+med,vhigh/high,*,*,*,high,acc
+med,med,*,*,*,low,unacc
+med,med,*,*,*,med,acc
+med,med,*,*,*,high,vgood
+med,low,*,*,*,low,unacc
+med,low,*,*,*,med,acc/good
+med,low,*,*,*,high,good/vgood
+low,vhigh,*,*,*,low,unacc
+low,vhigh,*,*,*,high,acc
+low,high,*,*,*,low,unacc
+low,high,*,*,*,med,acc
+low,high,*,*,*,high,vgood
+low,med/low,*,*,*,low,unacc
+low,med/low,*,*,*,med,acc/good
+low,med/low,*,*,*,high,good/vgood
+
+*,*,*,2,*,*,unacc
+*,*,*,*,*,low,unacc
+vhigh,vhigh/high,*,*,*,unacc
+vhigh,med/low,*,*,*,high,acc
+high,vhigh,*,*,*,unacc
+high,*,*,*,*,high,acc
+med,vhigh/high,*,*,*,high,acc
+med,med,*,*,*,med,acc
+med,med,*,*,*,high,vgood
+med,low,*,*,*,med,acc/good
+med,low,*,*,*,high,good/vgood
+low,vhigh,*,*,*,high,acc
+low,high,*,*,*,med,acc
+low,high,*,*,*,high,vgood
+low,med/low,*,*,*,med,acc/good
+low,med/low,*,*,*,high,good/vgood
+
+Rules:
+If Persons are 'two' or Safety Score is 'low', then Recommendation should be 'unacceptable'.
+If Buying Price is 'very high' and Maintenance Price is 'high' or 'very high', then Recommendation should be 'unacceptable'.
+If Buying Price is 'high' and Maintenance Price is 'very high', then Recommendation should be 'unacceptable'.
+If Buying Price is 'very high', Maintenance Price is 'medium' or 'low', and Safety Score is 'high', then Recommendation should be 'acceptable'.
+If Buying Price is 'high' and Safety Score is 'high', then Recommendation should be 'acceptable'.
+If Buying Price is 'medium', Maintenance Price is 'high' or 'very high', and Safety Score is 'high', then Recommendation should be 'acceptable'.
+If Buying Price is 'medium', Maintenance Price is 'medium', and Safety Score is 'medium', then Recommendation should be 'acceptable'.
+If Buying Price is 'medium', Maintenance Price is 'medium', and Safety Score is 'high', then Recommendation should be 'very good'.
+If Buying Price is 'medium', Maintenance Price is 'low', and Safety Score is 'medium', then Recommendation should be 'acceptable' or 'good'.
+If Buying Price is 'medium', Maintenance Price is 'low', and Safety Score is 'high', then Recommendation should be 'good' or 'very good'.
+If Buying Price is 'low', Maintenance Price is 'very high', and Safety Score is 'high', then Recommendation should be 'acceptable'.
+If Buying Price is 'low', Maintenance Price is 'high', and Safety Score is 'medium', then Recommendation should be 'acceptable'.
+If Buying Price is 'low', Maintenance Price is 'high', and Safety Score is 'high', then Recommendation should be 'very good'.
+If Buying Price is 'low', Maintenance Price is 'low' or 'medium', and Safety Score is 'medium', then Recommendation should be 'acceptable' or 'good'.
+If Buying Price is 'low', Maintenance Price is 'low' or 'medium', and Safety Score is 'high', then Recommendation should be 'good' or 'very good'.
+
+Candidates for examples:
+med,low,*,*,*,med,acc/good
+med,low,*,*,*,high,good/vgood
+low,med/low,*,*,*,med,acc/good
+low,med/low,*,*,*,high,good/vgood
+
+Examples:
+med,low,2,4,small,med,acc
+med,low,2,4,small,high,good
+med,low,2,more,big,med,good
+med,low,2,more,big,high,vgood
+low,med,2,4,small,med,acc
+low,med,2,4,small,high,good
+low,med,2,more,big,med,good
+low,med,2,more,big,high,vgood
+low,low,2,4,small,med,acc
+low,low,2,4,small,high,good
+low,low,2,more,big,med,good
+low,low,2,more,big,high,vgood

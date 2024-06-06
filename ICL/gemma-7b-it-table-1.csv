@@ -1,0 +1,1987 @@
+acceptable,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,very good
+acceptable,unacceptable
+unacceptable,unacceptable
+unacceptable,very good
+acceptable,very good
+unacceptable,unacceptable
+acceptable,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,very good
+acceptable,very good
+unacceptable,very good
+unacceptable,unacceptable
+unacceptable,very good
+unacceptable,very good
+unacceptable,unacceptable
+unacceptable,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,very good
+acceptable,very good
+very good,very good
+unacceptable,unacceptable
+unacceptable,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,unacceptable
+unacceptable,unacceptable
+unacceptable,very good
+acceptable,very good
+unacceptable,very good
+unacceptable,very good
+acceptable,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,very good
+very good,very good
+unacceptable,unacceptable
+unacceptable,unacceptable
+unacceptable,unacceptable
+unacceptable,very good
+unacceptable,unacceptable
+unacceptable,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,unacceptable
+unacceptable,very good
+unacceptable,unacceptable
+unacceptable,very good
+very good,very good
+unacceptable,very good
+good,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,unacceptable
+unacceptable,very good
+acceptable,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,very good
+good,very good
+unacceptable,very good
+unacceptable,unacceptable
+acceptable,very good
+acceptable,very good
+acceptable,very good
+acceptable,very good
+acceptable,very good
+good,very good
+unacceptable,very good
+unacceptable,very good
+very good,very good
+acceptable,unacceptable
+unacceptable,very good
+acceptable,very good
+unacceptable,unacceptable
+acceptable,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,unacceptable
+acceptable,very good
+unacceptable,unacceptable
+unacceptable,very good
+unacceptable,unacceptable
+unacceptable,very good
+acceptable,very good
+unacceptable,unacceptable
+unacceptable,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,unacceptable
+acceptable,unacceptable
+unacceptable,very good
+unacceptable,unacceptable
+acceptable,very good
+acceptable,very good
+unacceptable,unacceptable
+good,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,unacceptable
+unacceptable,very good
+unacceptable,very good
+unacceptable,very good
+very good,very good
+unacceptable,very good
+unacceptable,unacceptable
+unacceptable,unacceptable
+unacceptable,very good
+unacceptable,very good
+unacceptable,unacceptable
+unacceptable,unacceptable
+unacceptable,unacceptable
+unacceptable,very good
+very good,very good
+unacceptable,very good
+unacceptable,very good
+very good,very good
+unacceptable,very good
+unacceptable,unacceptable
+unacceptable,very good
+unacceptable,unacceptable
+acceptable,very good
+acceptable,very good
+unacceptable,very good
+acceptable,very good
+unacceptable,very good
+acceptable,very good
+unacceptable,unacceptable
+unacceptable,very good
+unacceptable,unacceptable
+unacceptable,very good
+unacceptable,very good
+unacceptable,very good
+good,very good
+acceptable,very good
+acceptable,very good
+unacceptable,unacceptable
+unacceptable,unacceptable
+unacceptable,unacceptable
+unacceptable,very good
+unacceptable,unacceptable
+acceptable,very good
+unacceptable,unacceptable
+unacceptable,unacceptable
+unacceptable,very good
+unacceptable,fail: <table>
+  <thead>
+    <tr>
+      <th>Buying Price</th>
+      <th>Maintenance Cost</th>
+      <th>Doors</th>
+      <th>Persons</th>
+      <th>Trunk Size</th>
+      <th>Safety Score</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>low</td>
+      <td>very high</td>
+      <td>three</td>
+      <td>more than four</td>
+      <td>medium</td>
+      <td>low</td>
+    </tr>
+  </tbody>
+</table>
+## recommendation
+
+very poor.
+
+the car has a very high maintenance cost and a low safety score.
+unacceptable,very good
+good,very good
+unacceptable,unacceptable
+unacceptable,very good
+unacceptable,very good
+unacceptable,unacceptable
+unacceptable,unacceptable
+unacceptable,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,unacceptable
+unacceptable,unacceptable
+unacceptable,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,very good
+good,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,very good
+acceptable,unacceptable
+unacceptable,unacceptable
+unacceptable,very good
+very good,very good
+unacceptable,very good
+unacceptable,very good
+acceptable,very good
+unacceptable,unacceptable
+unacceptable,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,very good
+acceptable,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,unacceptable
+unacceptable,very good
+unacceptable,unacceptable
+unacceptable,very good
+very good,very good
+acceptable,very good
+acceptable,very good
+unacceptable,unacceptable
+acceptable,very good
+unacceptable,very good
+very good,very good
+unacceptable,unacceptable
+unacceptable,very good
+unacceptable,unacceptable
+unacceptable,very good
+unacceptable,unacceptable
+unacceptable,unacceptable
+unacceptable,unacceptable
+acceptable,unacceptable
+unacceptable,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,very good
+acceptable,very good
+unacceptable,unacceptable
+unacceptable,very good
+unacceptable,very good
+good,very good
+acceptable,very good
+unacceptable,very good
+unacceptable,very good
+acceptable,very good
+unacceptable,very good
+unacceptable,unacceptable
+unacceptable,unacceptable
+acceptable,very good
+good,very good
+unacceptable,very good
+acceptable,very good
+unacceptable,unacceptable
+acceptable,unacceptable
+unacceptable,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,very good
+good,very good
+unacceptable,unacceptable
+unacceptable,unacceptable
+acceptable,very good
+acceptable,very good
+unacceptable,unacceptable
+unacceptable,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,unacceptable
+acceptable,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,very good
+good,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,very good
+acceptable,very good
+good,very good
+unacceptable,very good
+unacceptable,unacceptable
+unacceptable,very good
+acceptable,very good
+unacceptable,unacceptable
+unacceptable,very good
+good,very good
+unacceptable,unacceptable
+unacceptable,very good
+unacceptable,unacceptable
+unacceptable,unacceptable
+unacceptable,unacceptable
+unacceptable,very good
+unacceptable,unacceptable
+unacceptable,unacceptable
+acceptable,very good
+unacceptable,unacceptable
+unacceptable,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,unacceptable
+unacceptable,unacceptable
+unacceptable,very good
+unacceptable,unacceptable
+very good,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,unacceptable
+unacceptable,very good
+acceptable,very good
+acceptable,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,very good
+acceptable,very good
+unacceptable,unacceptable
+unacceptable,unacceptable
+unacceptable,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,unacceptable
+unacceptable,unacceptable
+unacceptable,unacceptable
+unacceptable,very good
+very good,very good
+acceptable,very good
+acceptable,very good
+unacceptable,very good
+acceptable,unacceptable
+acceptable,very good
+unacceptable,unacceptable
+unacceptable,unacceptable
+acceptable,very good
+good,very good
+unacceptable,very good
+unacceptable,unacceptable
+unacceptable,very good
+unacceptable,unacceptable
+acceptable,very good
+unacceptable,very good
+unacceptable,very good
+acceptable,very good
+acceptable,very good
+unacceptable,very good
+very good,very good
+unacceptable,very good
+unacceptable,unacceptable
+unacceptable,unacceptable
+good,very good
+acceptable,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,very good
+acceptable,very good
+unacceptable,unacceptable
+unacceptable,very good
+unacceptable,very good
+acceptable,very good
+unacceptable,unacceptable
+acceptable,very good
+acceptable,very good
+unacceptable,very good
+unacceptable,very good
+acceptable,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,very good
+acceptable,very good
+acceptable,very good
+unacceptable,unacceptable
+unacceptable,unacceptable
+acceptable,very good
+unacceptable,very good
+unacceptable,very good
+acceptable,very good
+acceptable,very good
+acceptable,very good
+unacceptable,very good
+good,very good
+unacceptable,very good
+unacceptable,unacceptable
+unacceptable,very good
+acceptable,very good
+unacceptable,unacceptable
+unacceptable,unacceptable
+unacceptable,very good
+unacceptable,very good
+unacceptable,unacceptable
+acceptable,very good
+acceptable,very good
+unacceptable,unacceptable
+acceptable,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,unacceptable
+unacceptable,unacceptable
+unacceptable,very good
+unacceptable,very good
+acceptable,very good
+acceptable,very good
+acceptable,very good
+acceptable,very good
+acceptable,very good
+unacceptable,unacceptable
+acceptable,very good
+unacceptable,unacceptable
+acceptable,very good
+good,very good
+unacceptable,unacceptable
+unacceptable,unacceptable
+unacceptable,very good
+unacceptable,very good
+unacceptable,very good
+acceptable,very good
+unacceptable,unacceptable
+unacceptable,very good
+acceptable,very good
+unacceptable,very good
+very good,very good
+very good,very good
+very good,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,unacceptable
+unacceptable,very good
+unacceptable,very good
+good,very good
+acceptable,very good
+acceptable,very good
+acceptable,very good
+acceptable,very good
+unacceptable,unacceptable
+unacceptable,unacceptable
+unacceptable,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,unacceptable
+unacceptable,very good
+unacceptable,very good
+acceptable,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,unacceptable
+acceptable,very good
+unacceptable,very good
+acceptable,very good
+unacceptable,unacceptable
+acceptable,very good
+unacceptable,very good
+unacceptable,very good
+acceptable,very good
+acceptable,very good
+good,very good
+unacceptable,fail: <table>
+  <thead>
+    <tr>
+      <th>Buying Price</th>
+      <th>Maintenance Cost</th>
+      <th>Doors</th>
+      <th>Persons</th>
+      <th>Trunk Size</th>
+      <th>Safety Score</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>low</td>
+      <td>very high</td>
+      <td>four</td>
+      <td>two</td>
+      <td>medium</td>
+      <td>low</td>
+    </tr>
+  </tbody>
+</table>
+## recommendation
+
+very poor.
+
+the car has a very high maintenance cost, low safety score, and small trunk size.
+unacceptable,very good
+unacceptable,very good
+very good,very good
+good,very good
+unacceptable,unacceptable
+unacceptable,very good
+acceptable,very good
+unacceptable,unacceptable
+acceptable,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,very good
+acceptable,very good
+unacceptable,very good
+unacceptable,unacceptable
+acceptable,very good
+good,very good
+unacceptable,very good
+unacceptable,unacceptable
+acceptable,very good
+unacceptable,unacceptable
+unacceptable,very good
+acceptable,very good
+unacceptable,very good
+acceptable,very good
+unacceptable,very good
+acceptable,very good
+unacceptable,unacceptable
+unacceptable,very good
+unacceptable,very good
+unacceptable,unacceptable
+acceptable,very good
+acceptable,very good
+acceptable,very good
+unacceptable,unacceptable
+unacceptable,very good
+acceptable,very good
+unacceptable,very good
+unacceptable,very good
+good,very good
+acceptable,very good
+unacceptable,unacceptable
+unacceptable,very good
+unacceptable,very good
+unacceptable,very good
+acceptable,very good
+acceptable,very good
+unacceptable,very good
+very good,very good
+unacceptable,very good
+acceptable,very good
+unacceptable,very good
+unacceptable,unacceptable
+unacceptable,unacceptable
+unacceptable,unacceptable
+unacceptable,very good
+unacceptable,unacceptable
+unacceptable,very good
+unacceptable,very good
+unacceptable,unacceptable
+unacceptable,very good
+unacceptable,very good
+unacceptable,very good
+acceptable,very good
+unacceptable,very good
+acceptable,very good
+unacceptable,very good
+good,very good
+unacceptable,very good
+unacceptable,very good
+acceptable,very good
+unacceptable,very good
+unacceptable,unacceptable
+acceptable,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,unacceptable
+unacceptable,unacceptable
+acceptable,very good
+acceptable,very good
+unacceptable,unacceptable
+unacceptable,unacceptable
+unacceptable,unacceptable
+unacceptable,unacceptable
+unacceptable,very good
+very good,very good
+unacceptable,very good
+very good,very good
+unacceptable,very good
+unacceptable,very good
+acceptable,very good
+unacceptable,unacceptable
+unacceptable,very good
+unacceptable,very good
+acceptable,very good
+unacceptable,very good
+unacceptable,very good
+acceptable,very good
+unacceptable,unacceptable
+good,very good
+unacceptable,very good
+acceptable,very good
+unacceptable,unacceptable
+unacceptable,very good
+very good,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,unacceptable
+unacceptable,unacceptable
+acceptable,very good
+good,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,unacceptable
+acceptable,very good
+unacceptable,very good
+acceptable,very good
+acceptable,very good
+acceptable,very good
+unacceptable,unacceptable
+acceptable,very good
+unacceptable,very good
+acceptable,unacceptable
+unacceptable,very good
+unacceptable,very good
+unacceptable,unacceptable
+unacceptable,unacceptable
+unacceptable,very good
+unacceptable,very good
+unacceptable,very good
+acceptable,very good
+unacceptable,unacceptable
+acceptable,very good
+unacceptable,unacceptable
+unacceptable,unacceptable
+unacceptable,very good
+unacceptable,very good
+unacceptable,unacceptable
+unacceptable,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,very good
+acceptable,very good
+unacceptable,unacceptable
+unacceptable,very good
+unacceptable,unacceptable
+acceptable,very good
+unacceptable,very good
+unacceptable,unacceptable
+good,very good
+unacceptable,unacceptable
+unacceptable,unacceptable
+unacceptable,very good
+unacceptable,very good
+unacceptable,unacceptable
+unacceptable,very good
+unacceptable,very good
+acceptable,very good
+unacceptable,very good
+unacceptable,very good
+acceptable,very good
+acceptable,very good
+unacceptable,unacceptable
+acceptable,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,unacceptable
+unacceptable,unacceptable
+acceptable,very good
+acceptable,very good
+unacceptable,very good
+unacceptable,very good
+acceptable,very good
+unacceptable,unacceptable
+unacceptable,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,very good
+good,very good
+very good,very good
+unacceptable,fail: <table>
+  <thead>
+    <tr>
+      <th>Buying Price</th>
+      <th>Maintenance Cost</th>
+      <th>Doors</th>
+      <th>Persons</th>
+      <th>Trunk Size</th>
+      <th>Safety Score</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>low</td>
+      <td>very high</td>
+      <td>two</td>
+      <td>four</td>
+      <td>medium</td>
+      <td>low</td>
+    </tr>
+  </tbody>
+</table>
+## recommendation
+
+very poor.
+
+the car has a very high maintenance cost, low safety score, and only has two doors.
+acceptable,unacceptable
+unacceptable,very good
+acceptable,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,unacceptable
+acceptable,very good
+acceptable,very good
+acceptable,very good
+acceptable,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,very good
+acceptable,very good
+unacceptable,very good
+unacceptable,unacceptable
+unacceptable,very good
+acceptable,very good
+unacceptable,unacceptable
+unacceptable,very good
+unacceptable,very good
+acceptable,very good
+unacceptable,unacceptable
+unacceptable,very good
+unacceptable,unacceptable
+unacceptable,very good
+unacceptable,very good
+unacceptable,unacceptable
+unacceptable,very good
+unacceptable,very good
+unacceptable,unacceptable
+acceptable,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,very good
+acceptable,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,very good
+good,very good
+unacceptable,unacceptable
+unacceptable,very good
+acceptable,very good
+acceptable,very good
+acceptable,very good
+acceptable,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,unacceptable
+unacceptable,very good
+unacceptable,unacceptable
+acceptable,very good
+unacceptable,unacceptable
+unacceptable,very good
+unacceptable,very good
+unacceptable,unacceptable
+unacceptable,unacceptable
+acceptable,very good
+unacceptable,unacceptable
+unacceptable,very good
+acceptable,very good
+unacceptable,unacceptable
+unacceptable,unacceptable
+unacceptable,unacceptable
+unacceptable,unacceptable
+unacceptable,unacceptable
+unacceptable,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,unacceptable
+unacceptable,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,very good
+acceptable,very good
+unacceptable,very good
+unacceptable,unacceptable
+unacceptable,very good
+acceptable,very good
+unacceptable,very good
+unacceptable,very good
+acceptable,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,unacceptable
+acceptable,very good
+unacceptable,very good
+unacceptable,very good
+acceptable,very good
+acceptable,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,unacceptable
+acceptable,very good
+acceptable,very good
+unacceptable,very good
+unacceptable,unacceptable
+unacceptable,unacceptable
+acceptable,very good
+unacceptable,very good
+unacceptable,unacceptable
+good,very good
+unacceptable,very good
+acceptable,very good
+unacceptable,very good
+acceptable,very good
+acceptable,very good
+very good,very good
+acceptable,very good
+unacceptable,very good
+acceptable,very good
+acceptable,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,very good
+acceptable,unacceptable
+unacceptable,very good
+unacceptable,very good
+unacceptable,unacceptable
+unacceptable,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,unacceptable
+acceptable,very good
+unacceptable,very good
+unacceptable,unacceptable
+unacceptable,unacceptable
+unacceptable,unacceptable
+acceptable,very good
+unacceptable,very good
+unacceptable,unacceptable
+unacceptable,very good
+unacceptable,unacceptable
+very good,very good
+unacceptable,very good
+unacceptable,unacceptable
+very good,very good
+unacceptable,very good
+unacceptable,very good
+acceptable,very good
+unacceptable,very good
+unacceptable,unacceptable
+acceptable,very good
+unacceptable,very good
+unacceptable,unacceptable
+acceptable,very good
+acceptable,very good
+good,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,unacceptable
+unacceptable,unacceptable
+acceptable,very good
+unacceptable,very good
+acceptable,very good
+unacceptable,unacceptable
+unacceptable,unacceptable
+good,very good
+acceptable,very good
+very good,very good
+unacceptable,very good
+acceptable,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,unacceptable
+unacceptable,unacceptable
+unacceptable,unacceptable
+unacceptable,unacceptable
+acceptable,very good
+unacceptable,very good
+acceptable,very good
+unacceptable,very good
+unacceptable,very good
+acceptable,very good
+acceptable,very good
+acceptable,very good
+unacceptable,very good
+unacceptable,unacceptable
+unacceptable,very good
+very good,very good
+acceptable,very good
+acceptable,very good
+very good,very good
+acceptable,unacceptable
+unacceptable,unacceptable
+unacceptable,unacceptable
+very good,very good
+acceptable,very good
+unacceptable,unacceptable
+unacceptable,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,very good
+acceptable,very good
+very good,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,unacceptable
+very good,very good
+unacceptable,very good
+acceptable,very good
+unacceptable,unacceptable
+unacceptable,unacceptable
+acceptable,very good
+unacceptable,very good
+very good,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,unacceptable
+acceptable,very good
+unacceptable,very good
+unacceptable,unacceptable
+good,very good
+unacceptable,very good
+very good,very good
+unacceptable,very good
+unacceptable,very good
+acceptable,very good
+unacceptable,unacceptable
+unacceptable,very good
+unacceptable,very good
+unacceptable,very good
+acceptable,very good
+acceptable,very good
+acceptable,very good
+unacceptable,unacceptable
+unacceptable,unacceptable
+unacceptable,very good
+very good,very good
+unacceptable,very good
+unacceptable,unacceptable
+unacceptable,very good
+unacceptable,very good
+unacceptable,unacceptable
+unacceptable,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,unacceptable
+unacceptable,unacceptable
+unacceptable,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,unacceptable
+unacceptable,very good
+unacceptable,very good
+unacceptable,unacceptable
+unacceptable,unacceptable
+acceptable,very good
+unacceptable,unacceptable
+acceptable,very good
+unacceptable,very good
+unacceptable,unacceptable
+acceptable,very good
+unacceptable,unacceptable
+unacceptable,very good
+acceptable,very good
+acceptable,very good
+unacceptable,very good
+unacceptable,unacceptable
+unacceptable,unacceptable
+unacceptable,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,unacceptable
+unacceptable,very good
+unacceptable,very good
+unacceptable,unacceptable
+unacceptable,unacceptable
+unacceptable,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,very good
+very good,very good
+unacceptable,very good
+acceptable,very good
+unacceptable,unacceptable
+acceptable,very good
+unacceptable,very good
+acceptable,very good
+unacceptable,unacceptable
+acceptable,very good
+unacceptable,very good
+acceptable,very good
+unacceptable,very good
+unacceptable,unacceptable
+unacceptable,acceptable
+unacceptable,very good
+unacceptable,unacceptable
+unacceptable,very good
+unacceptable,unacceptable
+unacceptable,very good
+unacceptable,very good
+acceptable,very good
+acceptable,very good
+unacceptable,unacceptable
+unacceptable,very good
+acceptable,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,very good
+acceptable,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,unacceptable
+unacceptable,very good
+acceptable,very good
+unacceptable,very good
+acceptable,very good
+unacceptable,unacceptable
+unacceptable,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,unacceptable
+unacceptable,very good
+unacceptable,very good
+acceptable,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,unacceptable
+unacceptable,very good
+unacceptable,very good
+unacceptable,very good
+good,very good
+unacceptable,very good
+acceptable,very good
+unacceptable,very good
+unacceptable,very good
+very good,very good
+unacceptable,unacceptable
+acceptable,very good
+acceptable,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,very good
+acceptable,very good
+very good,very good
+acceptable,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,very good
+acceptable,very good
+unacceptable,very good
+unacceptable,unacceptable
+very good,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,unacceptable
+unacceptable,very good
+acceptable,very good
+acceptable,very good
+unacceptable,very good
+unacceptable,unacceptable
+acceptable,very good
+unacceptable,very good
+unacceptable,very good
+very good,very good
+very good,very good
+unacceptable,very good
+acceptable,very good
+good,very good
+very good,very good
+unacceptable,very good
+acceptable,very good
+unacceptable,very good
+acceptable,very good
+unacceptable,very good
+acceptable,unacceptable
+unacceptable,very good
+acceptable,very good
+unacceptable,unacceptable
+unacceptable,unacceptable
+unacceptable,unacceptable
+unacceptable,very good
+unacceptable,very good
+acceptable,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,unacceptable
+unacceptable,very good
+unacceptable,unacceptable
+unacceptable,very good
+unacceptable,unacceptable
+unacceptable,very good
+unacceptable,very good
+unacceptable,very good
+very good,very good
+good,very good
+acceptable,unacceptable
+unacceptable,very good
+acceptable,very good
+unacceptable,very good
+unacceptable,unacceptable
+acceptable,very good
+unacceptable,unacceptable
+very good,very good
+unacceptable,unacceptable
+acceptable,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,fail: <table>
+  <thead>
+    <tr>
+      <th>Buying Price</th>
+      <th>Maintenance Cost</th>
+      <th>Doors</th>
+      <th>Persons</th>
+      <th>Trunk Size</th>
+      <th>Safety Score</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>medium</td>
+      <td>very high</td>
+      <td>four</td>
+      <td>four</td>
+      <td>medium</td>
+      <td>low</td>
+    </tr>
+  </tbody>
+</table>
+## recommendation
+
+very poor.
+
+the car has a very high maintenance cost, low safety score, and medium buying price.
+unacceptable,very good
+unacceptable,very good
+unacceptable,unacceptable
+acceptable,very good
+unacceptable,very good
+unacceptable,unacceptable
+very good,very good
+unacceptable,unacceptable
+acceptable,very good
+unacceptable,unacceptable
+unacceptable,very good
+acceptable,very good
+unacceptable,unacceptable
+acceptable,very good
+acceptable,very good
+unacceptable,very good
+acceptable,very good
+unacceptable,unacceptable
+unacceptable,very good
+unacceptable,unacceptable
+unacceptable,unacceptable
+unacceptable,very good
+unacceptable,very good
+good,very good
+unacceptable,very good
+unacceptable,unacceptable
+unacceptable,unacceptable
+unacceptable,very good
+unacceptable,very good
+good,very good
+acceptable,very good
+acceptable,very good
+unacceptable,very good
+unacceptable,unacceptable
+unacceptable,very good
+unacceptable,unacceptable
+unacceptable,unacceptable
+unacceptable,unacceptable
+unacceptable,very good
+unacceptable,very good
+acceptable,very good
+unacceptable,very good
+unacceptable,unacceptable
+unacceptable,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,very good
+acceptable,very good
+unacceptable,unacceptable
+acceptable,very good
+unacceptable,very good
+good,very good
+unacceptable,very good
+unacceptable,unacceptable
+acceptable,very good
+unacceptable,unacceptable
+unacceptable,unacceptable
+unacceptable,very good
+unacceptable,unacceptable
+unacceptable,unacceptable
+unacceptable,very good
+good,very good
+unacceptable,unacceptable
+good,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,very good
+very good,very good
+unacceptable,unacceptable
+acceptable,very good
+unacceptable,very good
+very good,very good
+unacceptable,very good
+unacceptable,very good
+acceptable,very good
+unacceptable,very good
+acceptable,very good
+unacceptable,very good
+acceptable,very good
+very good,very good
+unacceptable,very good
+unacceptable,unacceptable
+unacceptable,very good
+unacceptable,very good
+very good,very good
+acceptable,very good
+unacceptable,very good
+acceptable,very good
+unacceptable,unacceptable
+unacceptable,unacceptable
+very good,very good
+very good,very good
+acceptable,very good
+unacceptable,unacceptable
+acceptable,very good
+unacceptable,very good
+good,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,unacceptable
+acceptable,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,unacceptable
+unacceptable,unacceptable
+unacceptable,very good
+unacceptable,very good
+unacceptable,very good
+acceptable,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,unacceptable
+unacceptable,unacceptable
+unacceptable,very good
+unacceptable,very good
+unacceptable,unacceptable
+unacceptable,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,unacceptable
+good,very good
+unacceptable,very good
+unacceptable,very good
+acceptable,very good
+acceptable,very good
+unacceptable,very good
+unacceptable,unacceptable
+unacceptable,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,unacceptable
+unacceptable,unacceptable
+unacceptable,very good
+unacceptable,very good
+unacceptable,unacceptable
+acceptable,very good
+unacceptable,very good
+unacceptable,very good
+acceptable,very good
+acceptable,very good
+acceptable,very good
+unacceptable,fail: <table>
+  <thead>
+    <tr>
+      <th>Buying Price</th>
+      <th>Maintenance Cost</th>
+      <th>Doors</th>
+      <th>Persons</th>
+      <th>Trunk Size</th>
+      <th>Safety Score</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>low</td>
+      <td>very high</td>
+      <td>four</td>
+      <td>more than four</td>
+      <td>medium</td>
+      <td>low</td>
+    </tr>
+  </tbody>
+</table>
+## recommendation
+
+very poor.
+
+the car has a very high maintenance cost, low safety score, and medium buying price.
+unacceptable,very good
+unacceptable,unacceptable
+acceptable,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,unacceptable
+acceptable,very good
+unacceptable,very good
+acceptable,very good
+unacceptable,unacceptable
+unacceptable,very good
+unacceptable,unacceptable
+acceptable,very good
+acceptable,very good
+unacceptable,very good
+unacceptable,unacceptable
+acceptable,very good
+unacceptable,unacceptable
+unacceptable,very good
+unacceptable,very good
+acceptable,very good
+good,very good
+good,very good
+unacceptable,very good
+unacceptable,unacceptable
+unacceptable,very good
+acceptable,very good
+unacceptable,very good
+unacceptable,unacceptable
+acceptable,very good
+acceptable,very good
+unacceptable,very good
+acceptable,very good
+unacceptable,unacceptable
+unacceptable,very good
+acceptable,very good
+acceptable,very good
+acceptable,very good
+acceptable,very good
+acceptable,very good
+unacceptable,very good
+unacceptable,very good
+acceptable,very good
+acceptable,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,very good
+acceptable,very good
+acceptable,very good
+unacceptable,very good
+unacceptable,unacceptable
+unacceptable,very good
+unacceptable,very good
+unacceptable,unacceptable
+unacceptable,unacceptable
+unacceptable,very good
+unacceptable,very good
+unacceptable,very good
+acceptable,very good
+acceptable,very good
+unacceptable,unacceptable
+unacceptable,unacceptable
+unacceptable,fail: <table>
+  <thead>
+    <tr>
+      <th>Buying Price</th>
+      <th>Maintenance Cost</th>
+      <th>Doors</th>
+      <th>Persons</th>
+      <th>Trunk Size</th>
+      <th>Safety Score</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>low</td>
+      <td>very high</td>
+      <td>three</td>
+      <td>four</td>
+      <td>medium</td>
+      <td>low</td>
+    </tr>
+  </tbody>
+</table>
+## recommendation
+
+very poor.
+
+the car has a very high maintenance cost and a low safety score.
+unacceptable,very good
+unacceptable,very good
+acceptable,very good
+acceptable,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,unacceptable
+good,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,very good
+acceptable,very good
+unacceptable,unacceptable
+unacceptable,very good
+unacceptable,unacceptable
+unacceptable,very good
+unacceptable,very good
+acceptable,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,unacceptable
+unacceptable,very good
+acceptable,very good
+unacceptable,very good
+acceptable,very good
+acceptable,acceptable
+unacceptable,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,unacceptable
+acceptable,very good
+unacceptable,very good
+unacceptable,very good
+good,very good
+unacceptable,very good
+acceptable,very good
+unacceptable,very good
+acceptable,very good
+acceptable,very good
+acceptable,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,unacceptable
+unacceptable,very good
+unacceptable,unacceptable
+unacceptable,very good
+good,very good
+acceptable,very good
+unacceptable,unacceptable
+acceptable,very good
+unacceptable,very good
+unacceptable,unacceptable
+unacceptable,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,unacceptable
+unacceptable,unacceptable
+unacceptable,unacceptable
+acceptable,very good
+acceptable,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,unacceptable
+unacceptable,unacceptable
+acceptable,very good
+unacceptable,very good
+acceptable,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,unacceptable
+unacceptable,unacceptable
+acceptable,very good
+acceptable,very good
+unacceptable,unacceptable
+unacceptable,very good
+acceptable,very good
+unacceptable,very good
+acceptable,very good
+very good,very good
+acceptable,very good
+unacceptable,unacceptable
+unacceptable,very good
+good,very good
+unacceptable,unacceptable
+acceptable,very good
+unacceptable,very good
+good,very good
+unacceptable,unacceptable
+unacceptable,very good
+acceptable,very good
+acceptable,very good
+unacceptable,very good
+unacceptable,very good
+acceptable,very good
+acceptable,very good
+acceptable,very good
+good,very good
+unacceptable,very good
+unacceptable,very good
+good,very good
+very good,very good
+acceptable,very good
+acceptable,very good
+unacceptable,unacceptable
+unacceptable,very good
+unacceptable,very good
+unacceptable,unacceptable
+acceptable,very good
+unacceptable,unacceptable
+unacceptable,unacceptable
+unacceptable,unacceptable
+unacceptable,unacceptable
+unacceptable,very good
+unacceptable,unacceptable
+acceptable,very good
+unacceptable,unacceptable
+unacceptable,very good
+acceptable,very good
+unacceptable,unacceptable
+acceptable,very good
+acceptable,very good
+acceptable,very good
+acceptable,very good
+unacceptable,very good
+good,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,unacceptable
+very good,very good
+good,very good
+unacceptable,very good
+unacceptable,unacceptable
+good,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,very good
+acceptable,very good
+unacceptable,very good
+acceptable,very good
+very good,very good
+unacceptable,very good
+unacceptable,unacceptable
+unacceptable,unacceptable
+unacceptable,unacceptable
+good,very good
+unacceptable,very good
+unacceptable,unacceptable
+unacceptable,unacceptable
+unacceptable,very good
+acceptable,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,fail: <table>
+  <thead>
+    <tr>
+      <th>Buying Price</th>
+      <th>Maintenance Cost</th>
+      <th>Doors</th>
+      <th>Persons</th>
+      <th>Trunk Size</th>
+      <th>Safety Score</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>low</td>
+      <td>very high</td>
+      <td>two</td>
+      <td>two</td>
+      <td>medium</td>
+      <td>low</td>
+    </tr>
+  </tbody>
+</table>
+## recommendation
+
+very poor.
+
+the car has a very high maintenance cost, low safety score, and only has two doors.
+unacceptable,very good
+acceptable,very good
+good,very good
+unacceptable,very good
+acceptable,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,unacceptable
+unacceptable,unacceptable
+unacceptable,very good
+unacceptable,unacceptable
+unacceptable,very good
+unacceptable,very good
+unacceptable,very good
+very good,very good
+unacceptable,very good
+unacceptable,unacceptable
+unacceptable,very good
+unacceptable,unacceptable
+unacceptable,very good
+unacceptable,unacceptable
+unacceptable,unacceptable
+unacceptable,very good
+unacceptable,very good
+good,very good
+good,very good
+unacceptable,unacceptable
+unacceptable,very good
+unacceptable,unacceptable
+unacceptable,very good
+unacceptable,unacceptable
+unacceptable,unacceptable
+unacceptable,very good
+good,very good
+acceptable,very good
+unacceptable,unacceptable
+acceptable,very good
+unacceptable,very good
+acceptable,very good
+unacceptable,unacceptable
+unacceptable,very good
+unacceptable,very good
+acceptable,very good
+unacceptable,very good
+good,very good
+unacceptable,unacceptable
+unacceptable,very good
+acceptable,very good
+unacceptable,very good
+very good,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,unacceptable
+good,very good
+acceptable,very good
+unacceptable,very good
+unacceptable,unacceptable
+unacceptable,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,unacceptable
+very good,very good
+unacceptable,very good
+unacceptable,unacceptable
+acceptable,very good
+unacceptable,very good
+acceptable,very good
+unacceptable,unacceptable
+unacceptable,very good
+unacceptable,unacceptable
+unacceptable,unacceptable
+unacceptable,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,unacceptable
+unacceptable,very good
+unacceptable,unacceptable
+unacceptable,very good
+unacceptable,very good
+acceptable,very good
+unacceptable,very good
+unacceptable,very good
+good,very good
+unacceptable,very good
+unacceptable,very good
+very good,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,unacceptable
+acceptable,very good
+unacceptable,unacceptable
+very good,very good
+unacceptable,fail: <table>
+  <thead>
+    <tr>
+      <th>Buying Price</th>
+      <th>Maintenance Cost</th>
+      <th>Doors</th>
+      <th>Persons</th>
+      <th>Trunk Size</th>
+      <th>Safety Score</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>low</td>
+      <td>very high</td>
+      <td>two</td>
+      <td>more than four</td>
+      <td>big</td>
+      <td>low</td>
+    </tr>
+  </tbody>
+</table>
+## recommendation
+
+very poor.
+
+the car has a very high maintenance cost, low safety score, and only has two doors.
+unacceptable,unacceptable
+unacceptable,very good
+unacceptable,very good
+unacceptable,unacceptable
+acceptable,very good
+unacceptable,unacceptable
+unacceptable,very good
+unacceptable,very good
+acceptable,very good
+acceptable,very good
+unacceptable,unacceptable
+unacceptable,very good
+unacceptable,very good
+acceptable,very good
+unacceptable,very good
+unacceptable,unacceptable
+acceptable,very good
+unacceptable,very good
+good,very good
+good,very good
+unacceptable,unacceptable
+acceptable,very good
+unacceptable,unacceptable
+acceptable,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,unacceptable
+unacceptable,very good
+unacceptable,unacceptable
+unacceptable,very good
+acceptable,very good
+unacceptable,very good
+unacceptable,unacceptable
+unacceptable,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,unacceptable
+acceptable,very good
+unacceptable,unacceptable
+unacceptable,very good
+unacceptable,unacceptable
+unacceptable,very good
+good,very good
+unacceptable,fail: <table>
+  <thead>
+    <tr>
+      <th>Buying Price</th>
+      <th>Maintenance Cost</th>
+      <th>Doors</th>
+      <th>Persons</th>
+      <th>Trunk Size</th>
+      <th>Safety Score</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>low</td>
+      <td>very high</td>
+      <td>four</td>
+      <td>four</td>
+      <td>medium</td>
+      <td>low</td>
+    </tr>
+  </tbody>
+</table>
+## recommendation
+
+very poor.
+
+the car has a very high maintenance cost, low safety score, and medium buying price.
+unacceptable,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,very good
+acceptable,very good
+unacceptable,very good
+unacceptable,very good
+acceptable,very good
+unacceptable,very good
+unacceptable,unacceptable
+unacceptable,very good
+acceptable,very good
+unacceptable,unacceptable
+unacceptable,unacceptable
+unacceptable,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,very good
+acceptable,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,very good
+acceptable,very good
+good,very good
+unacceptable,very good
+unacceptable,very good
+very good,very good
+very good,very good
+unacceptable,very good
+unacceptable,unacceptable
+unacceptable,very good
+unacceptable,very good
+unacceptable,very good
+acceptable,very good
+acceptable,very good
+acceptable,very good
+very good,very good
+unacceptable,very good
+unacceptable,fail: <table>
+  <thead>
+    <tr>
+      <th>Buying Price</th>
+      <th>Maintenance Cost</th>
+      <th>Doors</th>
+      <th>Persons</th>
+      <th>Trunk Size</th>
+      <th>Safety Score</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>low</td>
+      <td>very high</td>
+      <td>three</td>
+      <td>two</td>
+      <td>medium</td>
+      <td>low</td>
+    </tr>
+  </tbody>
+</table>
+## recommendation
+
+very poor.
+
+the car has a very high maintenance cost, low safety score, and medium buying price.
+very good,very good
+unacceptable,unacceptable
+acceptable,very good
+unacceptable,unacceptable
+unacceptable,very good
+acceptable,very good
+unacceptable,very good
+acceptable,very good
+acceptable,very good
+unacceptable,unacceptable
+unacceptable,very good
+unacceptable,very good
+acceptable,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,unacceptable
+unacceptable,very good
+unacceptable,very good
+acceptable,very good
+unacceptable,very good
+acceptable,very good
+unacceptable,very good
+unacceptable,very good
+acceptable,very good
+acceptable,very good
+unacceptable,unacceptable
+unacceptable,very good
+unacceptable,very good
+unacceptable,unacceptable
+unacceptable,very good
+acceptable,very good
+unacceptable,very good
+unacceptable,unacceptable
+unacceptable,very good
+unacceptable,very good
+acceptable,very good
+acceptable,very good
+unacceptable,very good
+unacceptable,unacceptable
+unacceptable,very good
+unacceptable,very good
+good,very good
+acceptable,very good
+acceptable,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,very good
+acceptable,very good
+unacceptable,very good
+unacceptable,very good
+acceptable,very good
+acceptable,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,unacceptable
+acceptable,very good
+acceptable,very good
+unacceptable,very good
+acceptable,very good
+unacceptable,very good
+acceptable,very good
+unacceptable,unacceptable
+unacceptable,very good
+very good,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,very good
+unacceptable,unacceptable
+unacceptable,very good
+unacceptable,unacceptable
+acceptable,very good
+unacceptable,unacceptable
+unacceptable,very good
+unacceptable,unacceptable
+acceptable,very good
+unacceptable,very good
+acceptable,very good
+unacceptable,unacceptable
+unacceptable,very good
+unacceptable,very good
+good,very good
+unacceptable,unacceptable
+acceptable,very good
+unacceptable,very good
+acceptable,very good
+very good,very good
+unacceptable,unacceptable
+unacceptable,unacceptable
+unacceptable,very good
+unacceptable,very good
+good,very good
+acceptable,very good
+acceptable,very good
+acceptable,very good
+unacceptable,unacceptable
+unacceptable,very good
